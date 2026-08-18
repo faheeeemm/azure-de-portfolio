@@ -57,11 +57,11 @@
 - [x] Custom exception types — KeyError, ValueError, TypeError, FileNotFoundError etc.
 - [x] Decorators — wrapper pattern, @syntax, stacked decorators
 - [x] functools.wraps — preserving function names in decorators
+- [x] map(), filter()
+- [x] reduce() from functools
+- [x] Generators & yield
 
 ### 🔲 Remaining Topics
-- [ ] map(), filter()
-- [ ] reduce() from functools
-- [ ] Generators & yield
 - [ ] Context managers — with statement, __enter__/__exit__
 - [ ] File I/O — reading/writing text, CSV, JSON
 - [ ] json module — loads, dumps, load, dump
